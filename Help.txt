@@ -1,0 +1,7 @@
+This is a java program .First of all i have creted 6 string type variable a assign 
+elements values than i convert those string value into char array bcz it can make
+my comparsion easy and than i compare it for union intersection ;
+
+in fuzzy set i have created 2 sets and make its complement than create another 
+set which stores intersection of set1 and set2 .
+and than another set D which stores union of both sets ; 
